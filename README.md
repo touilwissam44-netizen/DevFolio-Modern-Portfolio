@@ -11,3 +11,14 @@ A modern portfolio website template for developers and freelancers.
 - HTML
 - CSS
 - JavaScript
+## 💰 Download / Buy
+
+You can download or purchase the premium version here:
+
+👉 [https://your-gumroad-link](https://wissamtouil.gumroad.com/)
+
+## 🌐 Live Demo
+
+Check the live demo of the website:
+
+👉 https://your-demo-link
